@@ -1,5 +1,5 @@
-<h1 align="center">Hello! We are Cube Enix</h1>
-<h3 align="center">We are an open source orginzation that works on many Scratch related things.</h3>
+<h1 align="center">Cube Enix</h1>
+<h3 align="center">A platform-development organization focusing on open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cube-enix&label=Profile%20views&color=0e75b6&style=flat" alt="cube-enix" /> </p>
 
