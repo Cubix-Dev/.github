@@ -2,7 +2,11 @@
   <img src="https://cdn.discordapp.com/attachments/1202661376242221098/1376310884720447690/cubixEntertainment_full.png?ex=683585a5&is=68343425&hm=6598af1621d647d3ab42a98610c2ac9b3f4bc71a9aeda25accc8a5fdd50ca3eb&" height="200px" alt="cubix logo">
 </p>
 <h3 align="center">Gaming Reimagined</h3>
-  Cubix is a gaming hardware group that specializes in creating current gen gaming hardware. We are a one of a kind organization, being built out of the scratch community in 2021. We aim to reimagine how we play games with our products and hopefully, bringing you experiences that will stick with you forever.
+<p align="center">
+Cubix is a gaming company where <b>gamers and developers come first.</b>
+</p>
+<p align="center">
+We believe that games - and by extension, making them - should be driven by the passion and creativity of players and creators in an environment where quality is prioritized over quantity. We hope that, with our products, we can change the way we make and play games and create experiences that will stick with you forever.
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
