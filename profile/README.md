@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1202661376242221098/1376310884720447690/cubixEntertainment_full.png?ex=683585a5&is=68343425&hm=6598af1621d647d3ab42a98610c2ac9b3f4bc71a9aeda25accc8a5fdd50ca3eb&" height="200px" alt="cubix logo">
+  <img src="https://i.ibb.co/yBx12Vm6/cubix-Entertainment-full.png" height="200px" alt="cubix logo">
 </p>
 <h3 align="center">Gaming Reimagined</h3>
 <p align="center">
